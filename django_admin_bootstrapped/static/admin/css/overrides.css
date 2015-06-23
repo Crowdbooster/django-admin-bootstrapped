@@ -162,3 +162,7 @@ td.action-checkbox {
     margin-bottom: 20px;
     clear: both;
 }
+
+.container.container-full {
+    width: 100%;
+}
